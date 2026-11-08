@@ -1,0 +1,8 @@
+test_id,status,A_allowance_mm,B_allowance_mm,machine,tool_id,material_moisture_percent,gap_top_mm,gap_middle_mm,gap_bottom_mm,edge_square_check,fit_pressure,photo_file,decision,notes
+C00,NOT PERFORMED,0,0,,,,,,,,,,,
+C025,NOT PERFORMED,0,-0.025,,,,,,,,,,,
+C050,NOT PERFORMED,0,-0.05,,,,,,,,,,,
+REPEAT_1,NOT PERFORMED,0,,,,,,,,,,,,
+REPEAT_2,NOT PERFORMED,0,,,,,,,,,,,,
+REPEAT_3,NOT PERFORMED,0,,,,,,,,,,,,
+FULL_BOARD,NOT PERFORMED,0,,,,,,,,,,,,

@@ -1,0 +1,914 @@
+﻿{
+    "title":  "Aspire 12.503 - {Rick Kuykendall} - [Coupon_A_Maple_A]",
+    "processId":  54488,
+    "window":  [
+                   -9,
+                   -9,
+                   2578,
+                   1398
+               ],
+    "screenshot":  "D:\\Projects\\Upwork\\Aspire-project\\River_Practice_Pack\\Codex_Assist\\2026-11-08_01\\06_Evidence\\074_coupon_save_as.png",
+    "activeHandle":  589898,
+    "controls":  [
+                     {
+                         "handle":  1247382,
+                         "id":  59648,
+                         "class":  "MDIClient",
+                         "text":  "",
+                         "bounds":  [
+                                        45,
+                                        128,
+                                        2154,
+                                        1236
+                                    ]
+                     },
+                     {
+                         "handle":  725142,
+                         "id":  65281,
+                         "class":  "AfxFrameOrView140u",
+                         "text":  "Coupon_A_Maple_A",
+                         "bounds":  [
+                                        36,
+                                        90,
+                                        2172,
+                                        1283
+                                    ]
+                     },
+                     {
+                         "handle":  1184188,
+                         "id":  59648,
+                         "class":  "Afx:00007FF7598C0000:2b:0000000000000000:0000000000000006:0000000000000000",
+                         "text":  "",
+                         "bounds":  [
+                                        45,
+                                        128,
+                                        2154,
+                                        1236
+                                    ]
+                     },
+                     {
+                         "handle":  1052642,
+                         "id":  65280,
+                         "class":  "AfxFrameOrView140u",
+                         "text":  "Coupon_A_Maple_A",
+                         "bounds":  [
+                                        45,
+                                        128,
+                                        2154,
+                                        1236
+                                    ]
+                     },
+                     {
+                         "handle":  1314668,
+                         "id":  59648,
+                         "class":  "Afx:00007FF7598C0000:28:0000000000000000:0000000000900010:000000000001002B",
+                         "text":  "New",
+                         "bounds":  [
+                                        49,
+                                        169,
+                                        2146,
+                                        1191
+                                    ]
+                     },
+                     {
+                         "handle":  1445746,
+                         "id":  35144,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        83,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  2756680,
+                         "id":  35145,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        138,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  1642458,
+                         "id":  33159,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        193,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  2166700,
+                         "id":  35083,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        248,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  1511326,
+                         "id":  35084,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        303,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  1183778,
+                         "id":  35086,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        1954,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  1249180,
+                         "id":  35087,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2064,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  1314530,
+                         "id":  35088,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2119,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  7013580,
+                         "id":  35089,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2009,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  2296384,
+                         "id":  59419,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarTop",
+                         "bounds":  [
+                                        9,
+                                        49,
+                                        2560,
+                                        38
+                                    ]
+                     },
+                     {
+                         "handle":  199364,
+                         "id":  0,
+                         "class":  "XTPToolBar",
+                         "text":  "Menu Bar",
+                         "bounds":  [
+                                        9,
+                                        49,
+                                        2560,
+                                        38
+                                    ]
+                     },
+                     {
+                         "handle":  460988,
+                         "id":  59422,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarBottom",
+                         "bounds":  [
+                                        9,
+                                        1389,
+                                        2560,
+                                        0
+                                    ]
+                     },
+                     {
+                         "handle":  984982,
+                         "id":  59420,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarLeft",
+                         "bounds":  [
+                                        9,
+                                        87,
+                                        0,
+                                        1302
+                                    ]
+                     },
+                     {
+                         "handle":  1245638,
+                         "id":  59421,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarRight",
+                         "bounds":  [
+                                        2569,
+                                        87,
+                                        0,
+                                        1302
+                                    ]
+                     },
+                     {
+                         "handle":  788704,
+                         "id":  59393,
+                         "class":  "XTPStatusBar",
+                         "text":  "",
+                         "bounds":  [
+                                        9,
+                                        1364,
+                                        2560,
+                                        25
+                                    ]
+                     },
+                     {
+                         "handle":  1968300,
+                         "id":  59419,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarTop",
+                         "bounds":  [
+                                        45,
+                                        87,
+                                        2154,
+                                        41
+                                    ]
+                     },
+                     {
+                         "handle":  655896,
+                         "id":  0,
+                         "class":  "XTPToolBar",
+                         "text":  "WorkspaceBar",
+                         "bounds":  [
+                                        45,
+                                        87,
+                                        2154,
+                                        41
+                                    ]
+                     },
+                     {
+                         "handle":  395440,
+                         "id":  59422,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarBottom",
+                         "bounds":  [
+                                        45,
+                                        1364,
+                                        2154,
+                                        0
+                                    ]
+                     },
+                     {
+                         "handle":  1376790,
+                         "id":  59420,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarLeft",
+                         "bounds":  [
+                                        45,
+                                        128,
+                                        0,
+                                        1236
+                                    ]
+                     },
+                     {
+                         "handle":  2033816,
+                         "id":  59421,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarRight",
+                         "bounds":  [
+                                        2199,
+                                        128,
+                                        0,
+                                        1236
+                                    ]
+                     },
+                     {
+                         "handle":  4394972,
+                         "id":  1637379072,
+                         "class":  "XTPDockingPaneAutoHidePanel",
+                         "text":  "",
+                         "bounds":  [
+                                        9,
+                                        87,
+                                        36,
+                                        1277
+                                    ]
+                     },
+                     {
+                         "handle":  921744,
+                         "id":  1172858320,
+                         "class":  "XTPDockingPaneSplitter",
+                         "text":  "Splitter",
+                         "bounds":  [
+                                        2199,
+                                        87,
+                                        5,
+                                        1277
+                                    ]
+                     },
+                     {
+                         "handle":  1249276,
+                         "id":  1634759232,
+                         "class":  "XTPDockingPaneTabbedContainer",
+                         "text":  "Toolpaths",
+                         "bounds":  [
+                                        2204,
+                                        87,
+                                        365,
+                                        1277
+                                    ]
+                     },
+                     {
+                         "handle":  265990,
+                         "id":  59648,
+                         "class":  "AfxMDIFrame140u",
+                         "text":  "Toolpaths",
+                         "bounds":  [
+                                        2204,
+                                        113,
+                                        365,
+                                        1251
+                                    ]
+                     },
+                     {
+                         "handle":  3149304,
+                         "id":  59664,
+                         "class":  "#32770",
+                         "text":  "",
+                         "bounds":  [
+                                        2205,
+                                        801,
+                                        363,
+                                        562
+                                    ]
+                     },
+                     {
+                         "handle":  1379854,
+                         "id":  2198,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2212,
+                                        808,
+                                        23,
+                                        24
+                                    ]
+                     },
+                     {
+                         "handle":  852908,
+                         "id":  1965,
+                         "class":  "Static",
+                         "text":  "Toolpaths",
+                         "bounds":  [
+                                        2234,
+                                        811,
+                                        153,
+                                        19
+                                    ]
+                     },
+                     {
+                         "handle":  397022,
+                         "id":  3096,
+                         "class":  "ComboBox",
+                         "text":  "",
+                         "bounds":  [
+                                        2397,
+                                        806,
+                                        108,
+                                        27
+                                    ]
+                     },
+                     {
+                         "handle":  658416,
+                         "id":  1024,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2507,
+                                        803,
+                                        29,
+                                        33
+                                    ]
+                     },
+                     {
+                         "handle":  462556,
+                         "id":  1025,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2536,
+                                        803,
+                                        29,
+                                        33
+                                    ]
+                     },
+                     {
+                         "handle":  200458,
+                         "id":  -1,
+                         "class":  "Static",
+                         "text":  "",
+                         "bounds":  [
+                                        2210,
+                                        839,
+                                        356,
+                                        2
+                                    ]
+                     },
+                     {
+                         "handle":  200456,
+                         "id":  2636,
+                         "class":  "SysTreeView32",
+                         "text":  "",
+                         "bounds":  [
+                                        2205,
+                                        844,
+                                        363,
+                                        519
+                                    ]
+                     },
+                     {
+                         "handle":  4524954,
+                         "id":  59648,
+                         "class":  "Static",
+                         "text":  "",
+                         "bounds":  [
+                                        2205,
+                                        114,
+                                        363,
+                                        681
+                                    ]
+                     },
+                     {
+                         "handle":  1314374,
+                         "id":  1550115968,
+                         "class":  "XTPTaskPanel",
+                         "text":  "",
+                         "bounds":  [
+                                        2205,
+                                        114,
+                                        363,
+                                        681
+                                    ]
+                     },
+                     {
+                         "handle":  1707958,
+                         "id":  0,
+                         "class":  "#32770",
+                         "text":  "Simulation Form",
+                         "bounds":  [
+                                        2238,
+                                        168,
+                                        327,
+                                        598
+                                    ]
+                     },
+                     {
+                         "handle":  2035412,
+                         "id":  1986,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2238,
+                                        168,
+                                        299,
+                                        248
+                                    ]
+                     },
+                     {
+                         "handle":  1445772,
+                         "id":  2225,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2238,
+                                        418,
+                                        299,
+                                        316
+                                    ]
+                     },
+                     {
+                         "handle":  1576820,
+                         "id":  3036,
+                         "class":  "Static",
+                         "text":  "Active sheet:",
+                         "bounds":  [
+                                        2250,
+                                        194,
+                                        88,
+                                        16
+                                    ]
+                     },
+                     {
+                         "handle":  1904268,
+                         "id":  5040,
+                         "class":  "Static",
+                         "text":  "Sheet 1",
+                         "bounds":  [
+                                        2348,
+                                        194,
+                                        124,
+                                        16
+                                    ]
+                     },
+                     {
+                         "handle":  1838978,
+                         "id":  3062,
+                         "class":  "Button",
+                         "text":  "Material Color",
+                         "bounds":  [
+                                        2298,
+                                        252,
+                                        105,
+                                        20
+                                    ]
+                     },
+                     {
+                         "handle":  1773404,
+                         "id":  3063,
+                         "class":  "Button",
+                         "text":  "Surface Color",
+                         "bounds":  [
+                                        2298,
+                                        274,
+                                        110,
+                                        20
+                                    ]
+                     },
+                     {
+                         "handle":  1642688,
+                         "id":  3252,
+                         "class":  "Button",
+                         "text":  "Inlay Color ...",
+                         "bounds":  [
+                                        2410,
+                                        270,
+                                        51,
+                                        22
+                                    ]
+                     },
+                     {
+                         "handle":  3084372,
+                         "id":  3064,
+                         "class":  "Button",
+                         "text":  "Global Fill Color",
+                         "bounds":  [
+                                        2298,
+                                        296,
+                                        110,
+                                        20
+                                    ]
+                     },
+                     {
+                         "handle":  1511218,
+                         "id":  1015,
+                         "class":  "Button",
+                         "text":  "Inlay Color ...",
+                         "bounds":  [
+                                        2410,
+                                        294,
+                                        51,
+                                        22
+                                    ]
+                     },
+                     {
+                         "handle":  987294,
+                         "id":  3065,
+                         "class":  "Button",
+                         "text":  "Toolpath Color",
+                         "bounds":  [
+                                        2298,
+                                        318,
+                                        107,
+                                        20
+                                    ]
+                     },
+                     {
+                         "handle":  1379974,
+                         "id":  1860,
+                         "class":  "Button",
+                         "text":  "Inlay Color ...",
+                         "bounds":  [
+                                        2410,
+                                        318,
+                                        51,
+                                        22
+                                    ]
+                     },
+                     {
+                         "handle":  1839208,
+                         "id":  1864,
+                         "class":  "Button",
+                         "text":  "Set All",
+                         "bounds":  [
+                                        2466,
+                                        318,
+                                        54,
+                                        22
+                                    ]
+                     },
+                     {
+                         "handle":  1249040,
+                         "id":  3066,
+                         "class":  "Button",
+                         "text":  "Lithophane",
+                         "bounds":  [
+                                        2298,
+                                        340,
+                                        88,
+                                        20
+                                    ]
+                     },
+                     {
+                         "handle":  2035584,
+                         "id":  2866,
+                         "class":  "msctls_trackbar32",
+                         "text":  "",
+                         "bounds":  [
+                                        2403,
+                                        340,
+                                        95,
+                                        26
+                                    ]
+                     },
+                     {
+                         "handle":  2429004,
+                         "id":  1021,
+                         "class":  "Button",
+                         "text":  "Animate preview",
+                         "bounds":  [
+                                        2296,
+                                        372,
+                                        121,
+                                        20
+                                    ]
+                     },
+                     {
+                         "handle":  790718,
+                         "id":  1030,
+                         "class":  "Button",
+                         "text":  "Draw tool",
+                         "bounds":  [
+                                        2424,
+                                        372,
+                                        82,
+                                        20
+                                    ]
+                     },
+                     {
+                         "handle":  1445738,
+                         "id":  1027,
+                         "class":  "Button",
+                         "text":  "Preview Selected Toolpath",
+                         "bounds":  [
+                                        2294,
+                                        436,
+                                        226,
+                                        28
+                                    ]
+                     },
+                     {
+                         "handle":  1183626,
+                         "id":  1975,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2294,
+                                        468,
+                                        40,
+                                        26
+                                    ]
+                     },
+                     {
+                         "handle":  1707650,
+                         "id":  1976,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2340,
+                                        468,
+                                        40,
+                                        26
+                                    ]
+                     },
+                     {
+                         "handle":  1576762,
+                         "id":  1977,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2385,
+                                        468,
+                                        40,
+                                        26
+                                    ]
+                     },
+                     {
+                         "handle":  790674,
+                         "id":  1978,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2431,
+                                        468,
+                                        40,
+                                        26
+                                    ]
+                     },
+                     {
+                         "handle":  1380246,
+                         "id":  1979,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2476,
+                                        468,
+                                        40,
+                                        26
+                                    ]
+                     },
+                     {
+                         "handle":  1315010,
+                         "id":  2183,
+                         "class":  "msctls_trackbar32",
+                         "text":  "",
+                         "bounds":  [
+                                        2350,
+                                        496,
+                                        173,
+                                        26
+                                    ]
+                     },
+                     {
+                         "handle":  1314602,
+                         "id":  33840,
+                         "class":  "Button",
+                         "text":  "Preview All Sides",
+                         "bounds":  [
+                                        2294,
+                                        528,
+                                        226,
+                                        28
+                                    ]
+                     },
+                     {
+                         "handle":  2035618,
+                         "id":  1029,
+                         "class":  "Button",
+                         "text":  "Preview All Toolpaths",
+                         "bounds":  [
+                                        2294,
+                                        558,
+                                        226,
+                                        28
+                                    ]
+                     },
+                     {
+                         "handle":  1839108,
+                         "id":  1032,
+                         "class":  "Button",
+                         "text":  "Preview Visible Toolpaths",
+                         "bounds":  [
+                                        2294,
+                                        590,
+                                        226,
+                                        28
+                                    ]
+                     },
+                     {
+                         "handle":  5245914,
+                         "id":  1025,
+                         "class":  "Button",
+                         "text":  "Reset Preview",
+                         "bounds":  [
+                                        2294,
+                                        622,
+                                        110,
+                                        28
+                                    ]
+                     },
+                     {
+                         "handle":  1183886,
+                         "id":  1028,
+                         "class":  "Button",
+                         "text":  "Undo Last",
+                         "bounds":  [
+                                        2410,
+                                        622,
+                                        110,
+                                        28
+                                    ]
+                     },
+                     {
+                         "handle":  987152,
+                         "id":  1026,
+                         "class":  "Button",
+                         "text":  "Save Preview Image",
+                         "bounds":  [
+                                        2294,
+                                        654,
+                                        226,
+                                        28
+                                    ]
+                     },
+                     {
+                         "handle":  1118332,
+                         "id":  -1,
+                         "class":  "Static",
+                         "text":  "Double click on waste areas in 3D view to remove them.",
+                         "bounds":  [
+                                        2294,
+                                        688,
+                                        222,
+                                        36
+                                    ]
+                     },
+                     {
+                         "handle":  987196,
+                         "id":  2,
+                         "class":  "Button",
+                         "text":  "Close",
+                         "bounds":  [
+                                        2446,
+                                        736,
+                                        88,
+                                        28
+                                    ]
+                     },
+                     {
+                         "handle":  1445934,
+                         "id":  1866,
+                         "class":  "Static",
+                         "text":  "Machined Area Color ....",
+                         "bounds":  [
+                                        2296,
+                                        232,
+                                        194,
+                                        16
+                                    ]
+                     },
+                     {
+                         "handle":  1314726,
+                         "id":  -1,
+                         "class":  "Static",
+                         "text":  "",
+                         "bounds":  [
+                                        2294,
+                                        522,
+                                        226,
+                                        2
+                                    ]
+                     },
+                     {
+                         "handle":  987276,
+                         "id":  2184,
+                         "class":  "Static",
+                         "text":  "Speed",
+                         "bounds":  [
+                                        2308,
+                                        500,
+                                        37,
+                                        16
+                                    ]
+                     },
+                     {
+                         "handle":  1183776,
+                         "id":  2733,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2481,
+                                        184,
+                                        49,
+                                        40
+                                    ]
+                     }
+                 ]
+}

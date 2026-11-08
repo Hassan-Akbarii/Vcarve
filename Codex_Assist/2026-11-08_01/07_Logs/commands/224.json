@@ -1,0 +1,9 @@
+{
+  "name": "224_p01_reopen_profile",
+  "actions": [
+    {"type": "click", "x": 2548, "y": 115},
+    {"type": "wait", "ms": 400},
+    {"type": "click", "x": 2360, "y": 624, "double": true},
+    {"type": "wait", "ms": 700}
+  ]
+}

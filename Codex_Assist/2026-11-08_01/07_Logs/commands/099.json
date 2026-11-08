@@ -1,0 +1,1 @@
+{"name":"099_coupon_b_toolpaths_tab","actions":[{"type":"click","x":338,"y":66},{"type":"wait","ms":300},{"type":"click","x":420,"y":98},{"type":"wait","ms":500}]}

@@ -1,0 +1,1 @@
+{"name":"002_open_tutorial","actions":[{"type":"key","keys":"CTRL+O"},{"type":"wait","ms":500},{"type":"text","text":"D:\\Projects\\Upwork\\Aspire-project\\River_Practice_Pack\\Codex_Assist\\2026-11-08_01\\01_WorkingSources\\08_Free_Samples\\Official_Downloads\\R01\\Welcome Sign.crv"},{"type":"key","keys":"ENTER"},{"type":"wait","ms":1800}]}

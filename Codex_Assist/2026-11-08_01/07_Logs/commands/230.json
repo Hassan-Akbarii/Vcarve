@@ -1,0 +1,17 @@
+{
+  "name": "230_p02_hide",
+  "actions": [
+    {"type": "click", "x": 160, "y": 266, "right": true},
+    {"type": "wait", "ms": 280},
+    {"type": "click", "x": 250, "y": 342},
+    {"type": "wait", "ms": 220},
+    {"type": "click", "x": 430, "y": 346},
+    {"type": "wait", "ms": 350},
+    {"type": "click", "x": 160, "y": 243, "right": true},
+    {"type": "wait", "ms": 280},
+    {"type": "click", "x": 250, "y": 319},
+    {"type": "wait", "ms": 220},
+    {"type": "click", "x": 430, "y": 323},
+    {"type": "wait", "ms": 350}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "259_p03_import",
+  "actions": [
+    {"type": "key", "keys": "CTRL+I"},
+    {"type": "wait", "ms": 450},
+    {"type": "key", "keys": "ALT+N"},
+    {"type": "wait", "ms": 120},
+    {"type": "text", "text": "D:\\Projects\\Upwork\\Aspire-project\\River_Practice_Pack\\Codex_Assist\\2026-11-08_01\\01_WorkingSources\\Aspire_R12\\03_CAD\\P03_Maple_Stock_Layout_mm.dxf"},
+    {"type": "wait", "ms": 150},
+    {"type": "key", "keys": "ENTER"},
+    {"type": "wait", "ms": 1200}
+  ]
+}

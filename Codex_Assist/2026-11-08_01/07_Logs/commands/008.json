@@ -1,0 +1,1 @@
+{"name":"008_tutorial_ready","actions":[{"type":"press","handle":789486},{"type":"wait","ms":500},{"type":"key","keys":"F12"}]}

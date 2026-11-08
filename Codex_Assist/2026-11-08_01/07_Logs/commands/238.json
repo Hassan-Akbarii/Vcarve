@@ -1,0 +1,11 @@
+{
+  "name": "238_p02_select2",
+  "actions": [
+    {"type": "click", "x": 1352, "y": 700},
+    {"type": "wait", "ms": 250},
+    {"type": "click", "x": 2548, "y": 115},
+    {"type": "wait", "ms": 300},
+    {"type": "click", "x": 2204, "y": 264},
+    {"type": "wait", "ms": 600}
+  ]
+}

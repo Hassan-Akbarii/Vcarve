@@ -1,0 +1,13 @@
+{
+  "name": "228_p02_import",
+  "actions": [
+    {"type": "key", "keys": "CTRL+I"},
+    {"type": "wait", "ms": 500},
+    {"type": "key", "keys": "ALT+N"},
+    {"type": "wait", "ms": 150},
+    {"type": "text", "text": "D:\\Projects\\Upwork\\Aspire-project\\River_Practice_Pack\\Codex_Assist\\2026-11-08_01\\01_WorkingSources\\Aspire_R12\\03_CAD\\P02_Walnut_Stock_Layout_mm.dxf"},
+    {"type": "wait", "ms": 200},
+    {"type": "key", "keys": "ENTER"},
+    {"type": "wait", "ms": 1200}
+  ]
+}

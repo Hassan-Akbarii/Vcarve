@@ -1,0 +1,12 @@
+{
+  "name": "232_p02_checks",
+  "actions": [
+    {"type": "press", "handle": 3673518},
+    {"type": "press", "handle": 5115906},
+    {"type": "press", "handle": 9900170},
+    {"type": "field", "id": 2502, "text": "0.15"},
+    {"type": "field", "id": 1133, "text": "0.0"},
+    {"type": "field", "id": 1047, "text": "RP_P02_Walnut_Outside_SIM_ONLY"},
+    {"type": "wait", "ms": 200}
+  ]
+}

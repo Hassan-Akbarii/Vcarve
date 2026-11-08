@@ -1,0 +1,1 @@
+{"name":"118_pass_end","actions":[{"type":"click","x":1140,"y":500},{"type":"key","keys":"END"},{"type":"wait","ms":300}]}

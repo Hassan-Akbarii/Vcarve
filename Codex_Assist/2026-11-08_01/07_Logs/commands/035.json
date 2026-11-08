@@ -1,0 +1,1 @@
+{"name":"035_warmup_imported","actions":[{"type":"click","x":76,"y":817},{"type":"key","keys":"CTRL+I"},{"type":"wait","ms":700},{"type":"key","keys":"ALT+N"},{"type":"text","text":"D:\\Projects\\Upwork\\Aspire-project\\River_Practice_Pack\\Codex_Assist\\2026-11-08_01\\01_WorkingSources\\03_CAD\\Warmup_Plate_Stock_mm.dxf"},{"type":"key","keys":"ENTER"},{"type":"wait","ms":1000}]}

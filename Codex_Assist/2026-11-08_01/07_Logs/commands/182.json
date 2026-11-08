@@ -1,0 +1,11 @@
+{
+  "name": "182_b050_sheet_path",
+  "actions": [
+    {"type": "key", "keys": "ALT+N"},
+    {"type": "wait", "ms": 150},
+    {"type": "text", "text": "D:\\Projects\\Upwork\\Aspire-project\\River_Practice_Pack\\Codex_Assist\\2026-11-08_01\\04_SetupSheets\\Coupon_B_Walnut_B050_A_Summary.html"},
+    {"type": "wait", "ms": 200},
+    {"type": "key", "keys": "ENTER"},
+    {"type": "wait", "ms": 900}
+  ]
+}

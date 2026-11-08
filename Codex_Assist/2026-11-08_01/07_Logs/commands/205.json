@@ -1,0 +1,9 @@
+{
+  "name": "205_p01_exact",
+  "actions": [
+    {"type": "click", "x": 1118, "y": 850},
+    {"type": "wait", "ms": 250},
+    {"type": "click", "x": 1441, "y": 850},
+    {"type": "wait", "ms": 500}
+  ]
+}

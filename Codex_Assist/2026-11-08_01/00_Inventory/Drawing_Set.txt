@@ -1,0 +1,75 @@
+Finished board and thickness
+RIVER PRACTICE BOARD  |  REV A  |  mm  |  8 NOV 2026  |  DIMENSIONS GOVERN
+Original fictional training design. Geometry checked; CAM and physical cuts not performed.
+Drawing 1 of 3
+P01
+P02
+P03
+P04
+P05
+508 mm  |  20 in
+381 mm  |  15 in
+Side elevation after flattening
+25.4 mm
+Materials from left
+P01 maple
+P02 walnut
+P03 maple
+P04 walnut
+P05 maple
+Grain
+Arrows show +Y on every part. Face
+grain is exposed.
+Glue interfaces
+J12, J23, J34 and J45 are shared nominal
+curves. No CAM radius compensation is
+embedded in the CAD.
+Source of shape
+Four original two-span cubic Bezier
+boundaries, exported as editable
+sampled vectors.
+
+Exploded assembly and machining allowance
+RIVER PRACTICE BOARD  |  REV A  |  mm  |  8 NOV 2026  |  DIMENSIONS GOVERN
+Original fictional training design. Geometry checked; CAM and physical cuts not performed.
+Drawing 2 of 3
+P01
+P02
+P03
+P04
+P05
+J12
+J23
+J34
+J45
+Exploded for identification only - do not measure assembly width here
+Pretrim assembly: 514 x 387 x 28 mm before glue-up flattening. Only the outside perimeter has 3 mm trim stock; the joints are nominal.
+Final assembly: 508 x 381 x 25.4 mm. Glue in P01 to P05 order with a common end datum and cauls. Finish after cure. Tabs belong in the removable end strips,
+never on a glue interface.
+
+Stock setup example and short joint coupon
+RIVER PRACTICE BOARD  |  REV A  |  mm  |  8 NOV 2026  |  DIMENSIONS GOVERN
+Original fictional training design. Geometry checked; CAM and physical cuts not performed.
+Drawing 3 of 3
+135 mm stock
+430 mm stock
+XY zero
+P02 walnut stock example
+135 x 430 x 28 mm. Part length is 387 mm. XY
+zero at stock lower-left, Z zero at stock top.
+Shaded end bands illustrate fixture keep-outs
+only; they are not an engineered clamp layout.
+160 mm assembled coupon
+120 mm
+A maple
+B walnut
+Coupon is full scale
+The middle 120 mm of J12 is reused exactly. Cut A and B in separate jobs.
+Compare B outside-profile allowances of 0, -0.025 and -0.050 mm with A nominal.
+Actual results must be measured.
+Coupon
+Blank X x Y x Z
+A_Maple
+140 x 160 x 28 mm
+B_Walnut
+145 x 160 x 28 mm

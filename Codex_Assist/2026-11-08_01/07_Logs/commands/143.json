@@ -1,0 +1,1 @@
+{"name":"143_show_toolpaths","actions":[{"type":"click","x":338,"y":66},{"type":"wait","ms":300},{"type":"click","x":400,"y":112},{"type":"wait","ms":500}]}

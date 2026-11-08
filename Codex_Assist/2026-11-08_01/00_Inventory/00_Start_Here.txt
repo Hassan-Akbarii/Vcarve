@@ -1,0 +1,262 @@
+PRACTICE CLIENT HANDOFF AND VCARVE LAB
+Your practice project
+RIVER PRACTICE BOARD  |  REV A  |  8 NOV 2026  |  ORIGINAL FICTIONAL EXERCISE
+1
+Build an editable CNC workflow for a five-piece maple and walnut cutting board. This pack supplies the
+client-style inputs; you create the native VCarve jobs, machining previews and evidence.
+P01
+P02
+P03
+P04
+P05
+Start with these four actions
+Read the client brief in folder 01 and the drawings in folder 02.
+Open folder 08 and download the genuine VCarve starter projects.
+Import the warm-up DXF, then the two separate joint-coupon files.
+Create the five board jobs, save editable CRV files and record your own previews.
+What is supplied: original DXF/SVG geometry, reference images, dimensions, stock layouts, a joint test, editable notes,
+templates and an optional generator.
+What you will create: native CRV files and CAM. Actual machining, measured fit, machine-specific code and the
+recorded walkthrough remain practical milestones. No custom CRV or test-cut evidence is fabricated.
+
+PRACTICE CLIENT HANDOFF AND VCARVE LAB
+Read the client handoff
+RIVER PRACTICE BOARD  |  REV A  |  8 NOV 2026  |  ORIGINAL FICTIONAL EXERCISE
+2
+The fictional client is River Practice Workshop. The job description gives the size, five adjoining pieces
+and maple/walnut materials. This exercise fills the remaining gaps with explicit assumptions; it is not the
+actual River No. 1 design.
+Requirement
+Practice definition
+Finished board
+508 x 381 x 25.4 mm
+Pretrim glue-up
+514 x 387 x 28.0 mm
+Material sequence
+P01 maple / P02 walnut / P03 maple / P04 walnut / P05 maple
+Grain
+All five pieces parallel to +Y, along 381 mm
+Joint construction
+Four smooth, full-thickness, vertical mating edges
+Nominal geometry
+Zero CAD gap; CAM fit allowance tested separately
+Shop for simulation
+Virtual 3-axis router, at least 600 x 600 mm XY
+Controller and post
+Unselected; code release requires the actual setup
+What the simulated shop does
+The shop prepares flat blanks, checks moisture, fixtures and machines parts, dry assembles, glues with
+cauls and a common end datum, then flattens and trims. Tabs stay in sacrificial end waste. No handles,
+juice groove, inlay or hidden joinery is included.
+How acceptance is defined
+The practice dry-fit target is hand assembly without force and a provisional 0.10 mm feeler check.
+Proposed finished tolerances are +/-0.5 mm in plan and +/-0.3 mm in thickness. Repeat three accepted
+coupon pairs before claiming repeatability. The full criteria are in the client brief.
+Before the real job: replace each practice assumption with the client's approved value. The assumption register in
+folder 01 distinguishes supplied facts, invented exercise values and open release decisions.
+
+PRACTICE CLIENT HANDOFF AND VCARVE LAB
+First native file and small test
+RIVER PRACTICE BOARD  |  REV A  |  8 NOV 2026  |  ORIGINAL FICTIONAL EXERCISE
+3
+1  Inspect an official CRV
+Download R01 from the resource page in folder 08. Open Welcome Sign.crv with File > Open. Save a
+copy, inspect job settings and existing toolpaths, make one small edit, recalculate and preview. R02 then
+shows the DXF-to-profile route closest to the board task.
+2  Make the warm-up plate
+Create a 140 x 100 x 12 mm single-sided job. Import Warmup_Plate_Stock_mm.dxf. The part is 100 x 60
+mm with two 10 mm holes. Its lower-left is 20,20; hole centers are 40,50 and 100,50. Pocket holes before
+the outside cut, preview and save your first CRV.
+3  Build the two coupon jobs
+Use the separate stock files from folder 04. The assembled pair measures 160 x 120 mm and reuses the
+middle of the actual J12 curve at full scale. Both blanks are 28 mm thick.
+Part
+Material
+Stock X x Y
+A_Maple
+Hard maple
+140 x 160 mm
+B_Walnut
+Walnut
+145 x 160 mm
+Set XY zero at the lower-left stock corner and Z zero at the stock top. Preserve the supplied placement. If
+import shifts the drawing, align the entire imported set using REF_STOCK before hiding it.
+Select only CUT_COUPON_A_MAPLE or CUT_COUPON_B_WALNUT. The outline is the part edge, so use an
+outside profile with cutter compensation in CAM. Do not add a second tool-radius offset to the DXF.
+Checkpoint: one correct native job for each material, one closed machining outline per part, correct stock dimensions
+and no toolpath around the REF_STOCK rectangle.
+
+PRACTICE CLIENT HANDOFF AND VCARVE LAB
+Prepare all five board parts
+RIVER PRACTICE BOARD  |  REV A  |  8 NOV 2026  |  ORIGINAL FICTIONAL EXERCISE
+4
+Use one native job per part for the first exercise. This makes material, zero position and stock changes
+easy to inspect. Multi-sheet organization can follow after you understand the basic process.
+ID
+Wood
+Stock X x Y x Z
+Machining layer
+P01
+Hard maple
+200 x 430 x 28
+CUT_P01_MAPLE
+P02
+Walnut
+135 x 430 x 28
+CUT_P02_WALNUT
+P03
+Hard maple
+240 x 430 x 28
+CUT_P03_MAPLE
+P04
+Walnut
+140 x 430 x 28
+CUT_P04_WALNUT
+P05
+Hard maple
+205 x 430 x 28
+CUT_P05_MAPLE
+Import the matching Stock_Layout_mm.dxf in millimetres at 1:1. Check REF_STOCK against the job
+boundary, then hide reference layers.
+Profile only the CUT_Pxx_MATERIAL contour. Use the nominal baseline until the coupon process is
+physically accepted.
+Review retention, entry, exit and any end-waste tabs. No tab or entry mark should compromise a
+mating surface.
+Preview and save RP_P01_Maple_A.crv through RP_P05_Maple_A.crv. Export a VCarve job sheet and
+capture your own previews.
+Dry assemble the physical full board only after cutting. Flatten, trim and soften external edges after
+glue-up under the shop's agreed process.
+Finished versus pretrim: master finished geometry is 508 x 381 mm. Individual machining files contain 3 mm external
+trim waste; the untrimmed assembly is 514 x 387 mm. Do not scale the stock-layout parts to the finished size.
+Reference assembly: touching outlines in a master drawing are for review. Cut each material-specific component from
+its own blank with its own compensated profile.
+
+PRACTICE CLIENT HANDOFF AND VCARVE LAB
+Set up a controlled fit test
+RIVER PRACTICE BOARD  |  REV A  |  8 NOV 2026  |  ORIGINAL FICTIONAL EXERCISE
+5
+Use these virtual values to learn the interface. They have not been validated for a real cutter, machine,
+fixture or piece of wood. The detailed lab in folder 05 explains the checks before any physical cut.
+Field
+Simulation value
+Tool
+T01 flat end, 6.35 mm, two flutes, adequate cutting length
+Speed / feed / plunge
+18000 rpm / 1800 mm/min / 400 mm/min
+Stock / start / cut depth
+28.00 / 0.00 / 28.20 mm, with sacrificial spoilboard
+Maximum roughing stepdown
+2.00 mm; inspect actual pass list
+Baseline fit / last-pass allowance
+0.000 mm / 0.15 mm radial
+Safe clearance
+15 mm above stock for simulation; verify actual fixtures
+Example tab settings
+12 mm length, 2.2 mm toolpath thickness; 2.0 mm stock remains
+Compare three B variants
+Keep A nominal. Save B00 at zero allowance, B025 at -0.025 mm and B050 at -0.050 mm. A negative
+outside-profile allowance makes B smaller. The whole B outline changes in this simple test; keep its
+original vectors.
+Cut only after operator review. Check top, middle and bottom gap, edge squareness, movement and
+tear-out. Log actual results in Test_Results.csv. Then repeat three accepted pairs and finally test the full
+board.
+Keep three ideas separate: cutter radius compensation, temporary finishing stock and final fit allowance. A
+mathematically matching curve does not establish a physically matching joint.
+The last pass can engage the full 28 mm edge height; the small roughing stepdown does not prove this is safe. Use the
+cutter maker's guidance and the actual operator's test plan.
+
+PRACTICE CLIENT HANDOFF AND VCARVE LAB
+Keep the handoff editable
+RIVER PRACTICE BOARD  |  REV A  |  8 NOV 2026  |  ORIGINAL FICTIONAL EXERCISE
+6
+Your first automation should reduce repeated setup while leaving geometry and toolpaths
+understandable to the client. The five-piece project does not justify a large custom automation system
+by itself.
+Work
+Recommended route
+Shared curves and dependent parts
+External parameter master or a clearly managed native vector master
+DXF/SVG export and stock schedule
+Included standard-library Python generator
+Tool definitions, datums and strategy
+VCarve plus operator review
+Reuse of accepted operations
+VCarve toolpath templates
+Tabs, entries, preview and revisions
+Inspect in VCarve for each revision
+Job sheets and documentation
+VCarve job sheet plus the supplied setup template
+Future repetitive tasks
+Consider a Lua Gadget only after the manual process works
+Try one concrete client revision
+Change width from 508 to 520 mm, keeping height 381 mm. Copy parameters.json to a new revision,
+update width and revision, and run the generator into a fresh output folder. Confirm the new master
+measures 520 x 381 mm.
+Import the new vectors into copies of the CRV jobs. Reselect or relink geometry, recalculate, review
+stock and retention, and save new setup sheets. The script does not create native CRV, toolpaths or
+machine code.
+One master per revision: direct VCarve edits do not update the JSON. Decide which source is authoritative before the
+next change; do not regenerate over a client's manual edits.
+
+PRACTICE CLIENT HANDOFF AND VCARVE LAB
+Download real VCarve examples
+RIVER PRACTICE BOARD  |  REV A  |  8 NOV 2026  |  ORIGINAL FICTIONAL EXERCISE
+7
+Open the HTML index in folder 08 for direct ZIP downloads and the matching videos. All three archives
+were downloaded and checked for native files on 8 November 2026. They were not opened in VCarve
+here.
+R01  Create a Simple Sign
+Native file: Welcome Sign.crv
+Learn the job setup, drawing tools, machining preview and native-file structure.
+Official project and video | Download original ZIP
+R02  Import Vectors and Create Profile Toolpaths
+Native file: Garden Panel - Toolpaths.crv
+Closest starter to this board: inspect a DXF import, sheets and a profile cut.
+Official project and video | Download original ZIP
+R03  Create a V-carved Sign
+Native file: Backyard BBQ Sign.crv
+Practise editing vectors, recalculating and sending a revised preview. V-carving itself is optional here.
+Official project and video | Download original ZIP
+Official project pages list V12 or later. Exact creation revisions of the binaries were not independently established. If a
+direct link changes, use its project page. The optional downloader extracts learning inputs and skips machine code.
+Use these references while you work
+R04 Quick Start Guide
+R05 2D Profile Toolpath
+R06 Toolpath Templates
+R07 Create Job Sheet
+R08 Gadgets and Lua
+Original versus reference work: this pack's board is your independent practice material. Official Vectric project files
+remain with Vectric and are learning examples, not samples of work you personally designed.
+
+PRACTICE CLIENT HANDOFF AND VCARVE LAB
+Turn the exercise into evidence
+RIVER PRACTICE BOARD  |  REV A  |  8 NOV 2026  |  ORIGINAL FICTIONAL EXERCISE
+8
+Your ArtCAM experience is a useful starting point for stock, cutter and toolpath concepts. This exercise
+helps test how quickly you can organize an editable VCarve workflow. It does not establish hands-on
+hardwood CNC experience by itself.
+Milestone
+Evidence required
+1 Digital familiarization
+Open a genuine CRV, make an edit, recalculate and save a preview
+2 Coupon CAM
+Two material-specific native jobs, allowance variants and setup notes
+3 Five-part CAM
+Five editable jobs, stock schedule, job sheets and revision example
+4 Physical validation
+Actual coupon measurements, photos and repeated cuts
+5 Real production release
+Accepted full board and verified machine/controller/post/fixture
+What to send a prospective client
+Use the editable case-study template in folder 09. Show your own VCarve screenshots and native jobs,
+explain the shared-boundary and coupon approach, and list physical cutting as pending unless
+performed. A 3 to 5 minute walkthrough plan is included.
+Before a firm quote
+Confirm approved geometry, thickness, stock, grain, preparation, assembly, acceptance tolerances,
+VCarve version, machine/controller, cutter details, workholding, who runs tests, feedback timing and the
+prototype revision limit.
+Role split: you can lead geometry, file organization and automation. Your collaborator should own or review
+woodworking decisions. If neither person has CNC machining experience, add an experienced operator before promising
+production-ready files.
+Scope discipline: time the exercise first. Quote a small design-and-coupon milestone, then the full board and
+machine-specific release. Do not turn tutorial files into claimed personal portfolio work.

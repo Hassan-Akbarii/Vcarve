@@ -1,0 +1,270 @@
+[
+  {
+    "source": "01_WorkingSources/03_CAD/Master_Finished_Assembly_mm.dxf",
+    "compatibility_file": "01_WorkingSources/Aspire_R12/03_CAD/Master_Finished_Assembly_mm.dxf",
+    "entities": 5,
+    "vertices_preserved": 7630,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "P01_MAPLE",
+      "P02_WALNUT",
+      "P03_MAPLE",
+      "P04_WALNUT",
+      "P05_MAPLE"
+    ]
+  },
+  {
+    "source": "01_WorkingSources/03_CAD/Master_Pretrim_Assembly_mm.dxf",
+    "compatibility_file": "01_WorkingSources/Aspire_R12/03_CAD/Master_Pretrim_Assembly_mm.dxf",
+    "entities": 5,
+    "vertices_preserved": 7650,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P05"
+    ]
+  },
+  {
+    "source": "01_WorkingSources/03_CAD/P01_Maple_Stock_Layout_mm.dxf",
+    "compatibility_file": "01_WorkingSources/Aspire_R12/03_CAD/P01_Maple_Stock_Layout_mm.dxf",
+    "entities": 3,
+    "vertices_preserved": 1536,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_P01_MAPLE",
+      "REF_GRAIN",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "01_WorkingSources/03_CAD/P02_Walnut_Stock_Layout_mm.dxf",
+    "compatibility_file": "01_WorkingSources/Aspire_R12/03_CAD/P02_Walnut_Stock_Layout_mm.dxf",
+    "entities": 3,
+    "vertices_preserved": 1536,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_P02_WALNUT",
+      "REF_GRAIN",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "01_WorkingSources/03_CAD/P03_Maple_Stock_Layout_mm.dxf",
+    "compatibility_file": "01_WorkingSources/Aspire_R12/03_CAD/P03_Maple_Stock_Layout_mm.dxf",
+    "entities": 3,
+    "vertices_preserved": 1536,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_P03_MAPLE",
+      "REF_GRAIN",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "01_WorkingSources/03_CAD/P04_Walnut_Stock_Layout_mm.dxf",
+    "compatibility_file": "01_WorkingSources/Aspire_R12/03_CAD/P04_Walnut_Stock_Layout_mm.dxf",
+    "entities": 3,
+    "vertices_preserved": 1536,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_P04_WALNUT",
+      "REF_GRAIN",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "01_WorkingSources/03_CAD/P05_Maple_Stock_Layout_mm.dxf",
+    "compatibility_file": "01_WorkingSources/Aspire_R12/03_CAD/P05_Maple_Stock_Layout_mm.dxf",
+    "entities": 3,
+    "vertices_preserved": 1536,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_P05_MAPLE",
+      "REF_GRAIN",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "01_WorkingSources/03_CAD/Warmup_Plate_Stock_mm.dxf",
+    "compatibility_file": "01_WorkingSources/Aspire_R12/03_CAD/Warmup_Plate_Stock_mm.dxf",
+    "entities": 4,
+    "vertices_preserved": 200,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_HOLE_1",
+      "CUT_HOLE_2",
+      "CUT_OUTER",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "01_WorkingSources/04_Joint_Test/Coupon_Assembly_mm.dxf",
+    "compatibility_file": "01_WorkingSources/Aspire_R12/04_Joint_Test/Coupon_Assembly_mm.dxf",
+    "entities": 2,
+    "vertices_preserved": 486,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "COUPON_A",
+      "COUPON_B"
+    ]
+  },
+  {
+    "source": "01_WorkingSources/04_Joint_Test/Coupon_A_Maple_Stock_mm.dxf",
+    "compatibility_file": "01_WorkingSources/Aspire_R12/04_Joint_Test/Coupon_A_Maple_Stock_mm.dxf",
+    "entities": 2,
+    "vertices_preserved": 247,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_COUPON_A_MAPLE",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "01_WorkingSources/04_Joint_Test/Coupon_B_Walnut_Stock_mm.dxf",
+    "compatibility_file": "01_WorkingSources/Aspire_R12/04_Joint_Test/Coupon_B_Walnut_Stock_mm.dxf",
+    "entities": 2,
+    "vertices_preserved": 247,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_COUPON_B_WALNUT",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "05_Revision_B/Generated/Coupon_Assembly_mm.dxf",
+    "compatibility_file": "05_Revision_B/Aspire_R12/Coupon_Assembly_mm.dxf",
+    "entities": 2,
+    "vertices_preserved": 486,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "COUPON_A",
+      "COUPON_B"
+    ]
+  },
+  {
+    "source": "05_Revision_B/Generated/Coupon_A_Maple_Stock_mm.dxf",
+    "compatibility_file": "05_Revision_B/Aspire_R12/Coupon_A_Maple_Stock_mm.dxf",
+    "entities": 2,
+    "vertices_preserved": 247,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_COUPON_A_MAPLE",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "05_Revision_B/Generated/Coupon_B_Walnut_Stock_mm.dxf",
+    "compatibility_file": "05_Revision_B/Aspire_R12/Coupon_B_Walnut_Stock_mm.dxf",
+    "entities": 2,
+    "vertices_preserved": 247,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_COUPON_B_WALNUT",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "05_Revision_B/Generated/Master_Finished_Assembly_mm.dxf",
+    "compatibility_file": "05_Revision_B/Aspire_R12/Master_Finished_Assembly_mm.dxf",
+    "entities": 5,
+    "vertices_preserved": 7630,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "P01_MAPLE",
+      "P02_WALNUT",
+      "P03_MAPLE",
+      "P04_WALNUT",
+      "P05_MAPLE"
+    ]
+  },
+  {
+    "source": "05_Revision_B/Generated/Master_Pretrim_Assembly_mm.dxf",
+    "compatibility_file": "05_Revision_B/Aspire_R12/Master_Pretrim_Assembly_mm.dxf",
+    "entities": 5,
+    "vertices_preserved": 7650,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P05"
+    ]
+  },
+  {
+    "source": "05_Revision_B/Generated/P01_Maple_Stock_Layout_mm.dxf",
+    "compatibility_file": "05_Revision_B/Aspire_R12/P01_Maple_Stock_Layout_mm.dxf",
+    "entities": 3,
+    "vertices_preserved": 1536,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_P01_MAPLE",
+      "REF_GRAIN",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "05_Revision_B/Generated/P02_Walnut_Stock_Layout_mm.dxf",
+    "compatibility_file": "05_Revision_B/Aspire_R12/P02_Walnut_Stock_Layout_mm.dxf",
+    "entities": 3,
+    "vertices_preserved": 1536,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_P02_WALNUT",
+      "REF_GRAIN",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "05_Revision_B/Generated/P03_Maple_Stock_Layout_mm.dxf",
+    "compatibility_file": "05_Revision_B/Aspire_R12/P03_Maple_Stock_Layout_mm.dxf",
+    "entities": 3,
+    "vertices_preserved": 1536,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_P03_MAPLE",
+      "REF_GRAIN",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "05_Revision_B/Generated/P04_Walnut_Stock_Layout_mm.dxf",
+    "compatibility_file": "05_Revision_B/Aspire_R12/P04_Walnut_Stock_Layout_mm.dxf",
+    "entities": 3,
+    "vertices_preserved": 1536,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_P04_WALNUT",
+      "REF_GRAIN",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "05_Revision_B/Generated/P05_Maple_Stock_Layout_mm.dxf",
+    "compatibility_file": "05_Revision_B/Aspire_R12/P05_Maple_Stock_Layout_mm.dxf",
+    "entities": 3,
+    "vertices_preserved": 1536,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_P05_MAPLE",
+      "REF_GRAIN",
+      "REF_STOCK"
+    ]
+  },
+  {
+    "source": "05_Revision_B/Generated/Warmup_Plate_Stock_mm.dxf",
+    "compatibility_file": "05_Revision_B/Aspire_R12/Warmup_Plate_Stock_mm.dxf",
+    "entities": 4,
+    "vertices_preserved": 200,
+    "coordinate_change_mm": 0,
+    "layers_preserved": [
+      "CUT_HOLE_1",
+      "CUT_HOLE_2",
+      "CUT_OUTER",
+      "REF_STOCK"
+    ]
+  }
+]

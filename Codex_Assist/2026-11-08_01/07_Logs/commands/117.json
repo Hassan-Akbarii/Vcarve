@@ -1,0 +1,9 @@
+{
+  "name": "117_set_exact_passes",
+  "actions": [
+    {"type": "click", "x": 1118, "y": 850},
+    {"type": "wait", "ms": 300},
+    {"type": "click", "x": 1441, "y": 850},
+    {"type": "wait", "ms": 600}
+  ]
+}

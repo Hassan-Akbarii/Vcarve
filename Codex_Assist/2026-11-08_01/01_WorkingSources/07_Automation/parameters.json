@@ -1,0 +1,23 @@
+{
+  "project": "River Practice Board",
+  "revision": "A",
+  "units": "mm",
+  "finished_width_mm": 508.0,
+  "finished_height_mm": 381.0,
+  "finished_thickness_mm": 25.4,
+  "planed_stock_thickness_mm": 28.0,
+  "perimeter_trim_mm": 3.0,
+  "stock_margin_mm": 20.0,
+  "curve_sample_step_mm": 0.5,
+  "boundary_x_fractions": [0.255905511811, 0.342519685039, 0.657480314961, 0.744094488189],
+  "bezier_x_offsets_at_508_mm": [
+    [0, 24, 42, 8, -26, -24, 0],
+    [0, 30, 49, 10, -29, -20, 0],
+    [0, 26, 36, -5, -46, -22, 0],
+    [0, 32, 44, -3, -50, -18, 0]
+  ],
+  "materials": ["Hard maple", "Walnut", "Hard maple", "Walnut", "Hard maple"],
+  "grain_direction": "Positive Y for all pieces",
+  "nominal_joint_gap_mm": 0.0,
+  "status": "Original practice design; geometry only; no validated CAM or machine code"
+}

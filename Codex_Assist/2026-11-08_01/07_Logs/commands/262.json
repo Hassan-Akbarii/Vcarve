@@ -1,0 +1,12 @@
+{
+  "name": "262_p03_checks",
+  "actions": [
+    {"type": "press", "handle": 10621066},
+    {"type": "press", "handle": 10752256},
+    {"type": "press", "handle": 11669686},
+    {"type": "field", "id": 2502, "text": "0.15"},
+    {"type": "field", "id": 1133, "text": "0.0"},
+    {"type": "field", "id": 1047, "text": "RP_P03_Maple_Outside_SIM_ONLY"},
+    {"type": "wait", "ms": 150}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "235_p02_reopen_form",
+  "actions": [
+    {"type": "click", "x": 2548, "y": 115},
+    {"type": "wait", "ms": 350},
+    {"type": "click", "x": 2204, "y": 264},
+    {"type": "wait", "ms": 600}
+  ]
+}

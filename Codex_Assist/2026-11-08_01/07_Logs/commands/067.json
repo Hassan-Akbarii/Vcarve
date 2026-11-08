@@ -1,0 +1,1 @@
+{"name":"067_coupon_t01","actions":[{"type":"field","id":2852,"text":"6.35"},{"type":"field","id":1040,"text":"1"},{"type":"click","x":1280,"y":397},{"type":"key","keys":"CTRL+A"},{"type":"text","text":"SIM_ONLY_T01_EndMill_6.35mm"},{"type":"key","keys":"TAB"}]}

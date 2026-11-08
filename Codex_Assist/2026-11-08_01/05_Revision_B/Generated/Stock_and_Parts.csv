@@ -1,0 +1,6 @@
+part_id,material,stock_x_mm,stock_y_mm,stock_z_mm,part_bbox_x_mm,part_bbox_y_mm,assembly_to_stock_shift_x_mm,assembly_to_stock_shift_y_mm,min_piece_width_in_x_mm,grain,cut_layer
+P01,Hard maple,205,430,28.0,163.4889,387.0,23.0,23.0,114.8418,Positive Y,CUT_P01_MAPLE
+P02,Walnut,140,430,28.0,95.9918,387.0,-94.841865,23.0,45.0394,Positive Y,CUT_P02_WALNUT
+P03,Hard maple,245,430,28.0,204.5056,387.0,-140.579088,23.0,148.2378,Positive Y,CUT_P03_MAPLE
+P04,Walnut,145,430,28.0,101.8604,387.0,-293.955593,23.0,44.7093,Positive Y,CUT_P04_WALNUT
+P05,Hard maple,205,430,28.0,164.1823,387.0,-338.817714,23.0,104.184,Positive Y,CUT_P05_MAPLE

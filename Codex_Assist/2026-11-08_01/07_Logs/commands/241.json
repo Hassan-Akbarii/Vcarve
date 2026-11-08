@@ -1,0 +1,13 @@
+{
+  "name": "241_p02_move_tabs",
+  "actions": [
+    {"type": "click", "x": 1439, "y": 481},
+    {"type": "wait", "ms": 250},
+    {"type": "click", "x": 1424, "y": 306},
+    {"type": "wait", "ms": 250},
+    {"type": "click", "x": 1419, "y": 1090},
+    {"type": "wait", "ms": 250},
+    {"type": "click", "x": 1421, "y": 1256},
+    {"type": "wait", "ms": 300}
+  ]
+}

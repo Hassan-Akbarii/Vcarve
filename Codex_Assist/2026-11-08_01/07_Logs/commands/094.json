@@ -1,0 +1,1 @@
+{"name":"094_coupon_a_save_native","actions":[{"type":"click","x":2490,"y":750},{"type":"wait","ms":500},{"type":"key","keys":"CTRL+S"},{"type":"wait","ms":1200}]}

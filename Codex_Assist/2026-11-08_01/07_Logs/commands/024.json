@@ -1,0 +1,1 @@
+{"name":"024_tutorial_recalculated","actions":[{"type":"set","handle":266116,"text":"0.300"},{"type":"set","handle":855986,"text":"Pocket_0.300in_Practice"},{"type":"click","x":2284,"y":1011},{"type":"wait","ms":700}]}

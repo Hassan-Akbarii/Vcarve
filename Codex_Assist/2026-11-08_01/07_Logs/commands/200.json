@@ -1,0 +1,11 @@
+{
+  "name": "200_p01_profile",
+  "actions": [
+    {"type": "click", "x": 1252, "y": 700},
+    {"type": "wait", "ms": 300},
+    {"type": "click", "x": 2548, "y": 115},
+    {"type": "wait", "ms": 400},
+    {"type": "click", "x": 2240, "y": 264},
+    {"type": "wait", "ms": 700}
+  ]
+}

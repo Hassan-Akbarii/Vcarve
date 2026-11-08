@@ -1,0 +1,11 @@
+{
+  "name": "198_hide_stock",
+  "actions": [
+    {"type": "click", "x": 160, "y": 266, "right": true},
+    {"type": "wait", "ms": 300},
+    {"type": "click", "x": 250, "y": 342},
+    {"type": "wait", "ms": 250},
+    {"type": "click", "x": 430, "y": 346},
+    {"type": "wait", "ms": 400}
+  ]
+}

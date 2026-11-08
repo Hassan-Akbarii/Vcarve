@@ -1,0 +1,8 @@
+{
+  "name": "155_b025_allowance",
+  "actions": [
+    {"type": "field", "id": 1133, "text": "-0.025"},
+    {"type": "field", "id": 1047, "text": "Coupon_B025_Nominal_Outside_SIM_ONLY"},
+    {"type": "wait", "ms": 300}
+  ]
+}

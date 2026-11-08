@@ -1,0 +1,9 @@
+{
+  "name": "154_b025_open_profile",
+  "actions": [
+    {"type": "click", "x": 2548, "y": 115},
+    {"type": "wait", "ms": 500},
+    {"type": "click", "x": 2360, "y": 626, "double": true},
+    {"type": "wait", "ms": 700}
+  ]
+}

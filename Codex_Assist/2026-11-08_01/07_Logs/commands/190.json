@@ -1,0 +1,13 @@
+{
+  "name": "190_p01_size",
+  "actions": [
+    {"type": "field", "id": 1073, "text": "200"},
+    {"type": "field", "id": 1074, "text": "430"},
+    {"type": "field", "id": 1050, "text": "28"},
+    {"type": "field", "id": 1082, "text": "0"},
+    {"type": "field", "id": 1084, "text": "0"},
+    {"type": "wait", "ms": 200},
+    {"type": "click", "x": 76, "y": 817},
+    {"type": "wait", "ms": 600}
+  ]
+}

@@ -1,0 +1,1 @@
+{"name":"072_coupon_a_preview","actions":[{"type":"click","x":1242,"y":781},{"type":"wait","ms":500},{"type":"key","keys":"ENTER"},{"type":"wait","ms":300},{"type":"key","keys":"ENTER"},{"type":"click","x":2241,"y":524},{"type":"click","x":2350,"y":636},{"type":"click","x":2405,"y":572},{"type":"wait","ms":500}]}

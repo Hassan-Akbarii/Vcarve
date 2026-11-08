@@ -1,0 +1,1 @@
+{"name":"084_coupon_a_close_inspect","actions":[{"type":"key","keys":"ESC"},{"type":"wait","ms":400},{"type":"click","x":2490,"y":1260},{"type":"wait","ms":500}]}

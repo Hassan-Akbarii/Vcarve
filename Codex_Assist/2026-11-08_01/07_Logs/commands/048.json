@@ -1,0 +1,1 @@
+{"name":"048_hole_toolpath_ready","actions":[{"type":"click","x":1346,"y":1024},{"type":"click","x":2284,"y":1011},{"type":"wait","ms":500},{"type":"key","keys":"ENTER"},{"type":"wait","ms":500}]}

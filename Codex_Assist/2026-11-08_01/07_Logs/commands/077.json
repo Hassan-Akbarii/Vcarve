@@ -1,0 +1,1 @@
+{"name":"077_coupon_a_reopen","actions":[{"type":"key","keys":"CTRL+O"},{"type":"wait","ms":800},{"type":"key","keys":"ALT+N"},{"type":"key","keys":"CTRL+A"},{"type":"text","text":"D:\\Projects\\Upwork\\Aspire-project\\River_Practice_Pack\\Codex_Assist\\2026-11-08_01\\02_Native_A\\Coupon_A_Maple_A.crv3d"},{"type":"key","keys":"ENTER"},{"type":"wait","ms":2500}]}

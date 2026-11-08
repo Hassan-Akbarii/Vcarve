@@ -1,0 +1,11 @@
+{
+  "name": "114_coupon_b_options",
+  "actions": [
+    {"type": "press", "handle": 2494338},
+    {"type": "press", "handle": 790112},
+    {"type": "press", "handle": 855470},
+    {"type": "field", "id": 2502, "text": "0.15"},
+    {"type": "field", "id": 1047, "text": "Coupon_B00_Nominal_Outside_SIM_ONLY"},
+    {"type": "wait", "ms": 400}
+  ]
+}

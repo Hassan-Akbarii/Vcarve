@@ -1,0 +1,9 @@
+{
+  "name": "242_p02_form",
+  "actions": [
+    {"type": "click", "x": 2548, "y": 115},
+    {"type": "wait", "ms": 300},
+    {"type": "click", "x": 2204, "y": 264},
+    {"type": "wait", "ms": 500}
+  ]
+}

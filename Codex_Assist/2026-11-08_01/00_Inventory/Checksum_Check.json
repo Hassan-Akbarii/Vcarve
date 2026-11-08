@@ -1,0 +1,214 @@
+[
+  {
+    "file": "00_Start_Here.pdf",
+    "matches": true
+  },
+  {
+    "file": "01_Client_Brief/Assumptions_and_Decisions.csv",
+    "matches": true
+  },
+  {
+    "file": "01_Client_Brief/Practice_Client_Brief.md",
+    "matches": true
+  },
+  {
+    "file": "02_References/Board_Reference.png",
+    "matches": true
+  },
+  {
+    "file": "02_References/Board_Reference.svg",
+    "matches": true
+  },
+  {
+    "file": "02_References/Drawing_Set.pdf",
+    "matches": true
+  },
+  {
+    "file": "02_References/Exploded_View.svg",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/Master_Editable_Bezier_Assembly_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/Master_Finished_Assembly_mm.dxf",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/Master_Finished_Assembly_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/Master_Pretrim_Assembly_mm.dxf",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/Master_Pretrim_Assembly_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/P01_Maple_Stock_Layout_mm.dxf",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/P01_Maple_Stock_Layout_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/P02_Walnut_Stock_Layout_mm.dxf",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/P02_Walnut_Stock_Layout_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/P03_Maple_Stock_Layout_mm.dxf",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/P03_Maple_Stock_Layout_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/P04_Walnut_Stock_Layout_mm.dxf",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/P04_Walnut_Stock_Layout_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/P05_Maple_Stock_Layout_mm.dxf",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/P05_Maple_Stock_Layout_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/Stock_and_Parts.csv",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/Warmup_Plate_Stock_mm.dxf",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/Warmup_Plate_Stock_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "03_CAD/geometry_manifest.json",
+    "matches": true
+  },
+  {
+    "file": "04_Joint_Test/Coupon_A_Maple_Stock_mm.dxf",
+    "matches": true
+  },
+  {
+    "file": "04_Joint_Test/Coupon_A_Maple_Stock_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "04_Joint_Test/Coupon_Assembly_mm.dxf",
+    "matches": true
+  },
+  {
+    "file": "04_Joint_Test/Coupon_Assembly_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "04_Joint_Test/Coupon_B_Walnut_Stock_mm.dxf",
+    "matches": true
+  },
+  {
+    "file": "04_Joint_Test/Coupon_B_Walnut_Stock_mm.svg",
+    "matches": true
+  },
+  {
+    "file": "04_Joint_Test/Fit_Test_Plan.md",
+    "matches": true
+  },
+  {
+    "file": "05_VCarve/Automation_and_Editability.md",
+    "matches": true
+  },
+  {
+    "file": "05_VCarve/VCarve_Steps.md",
+    "matches": true
+  },
+  {
+    "file": "06_Templates/Final_Handoff_Checklist.md",
+    "matches": true
+  },
+  {
+    "file": "06_Templates/Revision_Log.csv",
+    "matches": true
+  },
+  {
+    "file": "06_Templates/Setup_Sheet.md",
+    "matches": true
+  },
+  {
+    "file": "06_Templates/Stock_and_Parts.csv",
+    "matches": true
+  },
+  {
+    "file": "06_Templates/Test_Results.csv",
+    "matches": true
+  },
+  {
+    "file": "07_Automation/README.md",
+    "matches": true
+  },
+  {
+    "file": "07_Automation/parameters.json",
+    "matches": true
+  },
+  {
+    "file": "07_Automation/regenerate_geometry.py",
+    "matches": true
+  },
+  {
+    "file": "08_Free_Samples/Native_Samples_and_Tutorials.html",
+    "matches": true
+  },
+  {
+    "file": "08_Free_Samples/README.md",
+    "matches": true
+  },
+  {
+    "file": "08_Free_Samples/download_official_samples.py",
+    "matches": true
+  },
+  {
+    "file": "08_Free_Samples/resources.json",
+    "matches": true
+  },
+  {
+    "file": "09_Client_Presentation/Evidence_Checklist.md",
+    "matches": true
+  },
+  {
+    "file": "09_Client_Presentation/Practice_Case_Study.md",
+    "matches": true
+  },
+  {
+    "file": "LICENSE_AND_ORIGIN.md",
+    "matches": true
+  },
+  {
+    "file": "PACKAGE_CONTENTS.md",
+    "matches": true
+  },
+  {
+    "file": "README_START_HERE.md",
+    "matches": true
+  },
+  {
+    "file": "Validation_Report.md",
+    "matches": true
+  }
+]

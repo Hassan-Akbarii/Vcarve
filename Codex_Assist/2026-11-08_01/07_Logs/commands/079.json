@@ -1,0 +1,1 @@
+{"name":"079_coupon_a_profile_open","actions":[{"type":"key","keys":"ESC"},{"type":"wait","ms":500},{"type":"click","x":2320,"y":630,"double":true},{"type":"wait","ms":900}]}

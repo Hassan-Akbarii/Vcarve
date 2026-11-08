@@ -1,0 +1,9 @@
+{
+  "name": "152_save_as_b025",
+  "actions": [
+    {"type": "click", "x": 28, "y": 66},
+    {"type": "wait", "ms": 300},
+    {"type": "click", "x": 100, "y": 238},
+    {"type": "wait", "ms": 700}
+  ]
+}

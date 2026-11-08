@@ -1,0 +1,9 @@
+{
+  "name": "251_p02_saveas",
+  "actions": [
+    {"type": "click", "x": 28, "y": 66},
+    {"type": "wait", "ms": 250},
+    {"type": "click", "x": 100, "y": 238},
+    {"type": "wait", "ms": 600}
+  ]
+}

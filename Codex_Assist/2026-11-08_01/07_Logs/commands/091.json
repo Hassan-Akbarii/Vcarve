@@ -1,0 +1,1 @@
+{"name":"091_coupon_a_preview_run","actions":[{"type":"click","x":2349,"y":636},{"type":"wait","ms":800},{"type":"click","x":2407,"y":604},{"type":"wait","ms":12000}]}

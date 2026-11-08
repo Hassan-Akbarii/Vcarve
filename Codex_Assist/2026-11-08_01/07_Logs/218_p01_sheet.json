@@ -1,0 +1,878 @@
+﻿{
+    "title":  "Aspire 12.503 - {Rick Kuykendall} - [*New]",
+    "processId":  54488,
+    "window":  [
+                   -9,
+                   -9,
+                   2578,
+                   1398
+               ],
+    "screenshot":  "D:\\Projects\\Upwork\\Aspire-project\\River_Practice_Pack\\Codex_Assist\\2026-11-08_01\\06_Evidence\\218_p01_sheet.png",
+    "activeHandle":  3541854,
+    "controls":  [
+                     {
+                         "handle":  1247382,
+                         "id":  59648,
+                         "class":  "MDIClient",
+                         "text":  "",
+                         "bounds":  [
+                                        339,
+                                        128,
+                                        2194,
+                                        1236
+                                    ]
+                     },
+                     {
+                         "handle":  5312192,
+                         "id":  65281,
+                         "class":  "AfxFrameOrView140u",
+                         "text":  "*New",
+                         "bounds":  [
+                                        330,
+                                        90,
+                                        2212,
+                                        1283
+                                    ]
+                     },
+                     {
+                         "handle":  4263826,
+                         "id":  59648,
+                         "class":  "Afx:00007FF7598C0000:2b:0000000000000000:0000000000000006:0000000000000000",
+                         "text":  "",
+                         "bounds":  [
+                                        339,
+                                        128,
+                                        2194,
+                                        1236
+                                    ]
+                     },
+                     {
+                         "handle":  3674028,
+                         "id":  65280,
+                         "class":  "AfxFrameOrView140u",
+                         "text":  "*New",
+                         "bounds":  [
+                                        339,
+                                        128,
+                                        2194,
+                                        1236
+                                    ]
+                     },
+                     {
+                         "handle":  4198598,
+                         "id":  59648,
+                         "class":  "Afx:00007FF7598C0000:28:0000000000000000:0000000000900010:000000000001002B",
+                         "text":  "New",
+                         "bounds":  [
+                                        343,
+                                        169,
+                                        2186,
+                                        1191
+                                    ]
+                     },
+                     {
+                         "handle":  8916780,
+                         "id":  35144,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        377,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  3280930,
+                         "id":  35145,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        432,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  2099710,
+                         "id":  33159,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        487,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  4263582,
+                         "id":  35083,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        542,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  3936398,
+                         "id":  35084,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        597,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  3280790,
+                         "id":  35086,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2288,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  7146908,
+                         "id":  35087,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2398,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  2822318,
+                         "id":  35088,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2453,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  5508492,
+                         "id":  35089,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        2343,
+                                        203,
+                                        55,
+                                        55
+                                    ]
+                     },
+                     {
+                         "handle":  2296384,
+                         "id":  59419,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarTop",
+                         "bounds":  [
+                                        9,
+                                        49,
+                                        2560,
+                                        38
+                                    ]
+                     },
+                     {
+                         "handle":  199364,
+                         "id":  0,
+                         "class":  "XTPToolBar",
+                         "text":  "Menu Bar",
+                         "bounds":  [
+                                        9,
+                                        49,
+                                        2560,
+                                        38
+                                    ]
+                     },
+                     {
+                         "handle":  460988,
+                         "id":  59422,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarBottom",
+                         "bounds":  [
+                                        9,
+                                        1389,
+                                        2560,
+                                        0
+                                    ]
+                     },
+                     {
+                         "handle":  984982,
+                         "id":  59420,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarLeft",
+                         "bounds":  [
+                                        9,
+                                        87,
+                                        0,
+                                        1302
+                                    ]
+                     },
+                     {
+                         "handle":  1245638,
+                         "id":  59421,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarRight",
+                         "bounds":  [
+                                        2569,
+                                        87,
+                                        0,
+                                        1302
+                                    ]
+                     },
+                     {
+                         "handle":  788704,
+                         "id":  59393,
+                         "class":  "XTPStatusBar",
+                         "text":  "",
+                         "bounds":  [
+                                        9,
+                                        1364,
+                                        2560,
+                                        25
+                                    ]
+                     },
+                     {
+                         "handle":  1968300,
+                         "id":  59419,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarTop",
+                         "bounds":  [
+                                        339,
+                                        87,
+                                        2194,
+                                        41
+                                    ]
+                     },
+                     {
+                         "handle":  655896,
+                         "id":  0,
+                         "class":  "XTPToolBar",
+                         "text":  "WorkspaceBar",
+                         "bounds":  [
+                                        339,
+                                        87,
+                                        2194,
+                                        41
+                                    ]
+                     },
+                     {
+                         "handle":  395440,
+                         "id":  59422,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarBottom",
+                         "bounds":  [
+                                        339,
+                                        1364,
+                                        2194,
+                                        0
+                                    ]
+                     },
+                     {
+                         "handle":  1376790,
+                         "id":  59420,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarLeft",
+                         "bounds":  [
+                                        339,
+                                        128,
+                                        0,
+                                        1236
+                                    ]
+                     },
+                     {
+                         "handle":  2033816,
+                         "id":  59421,
+                         "class":  "XTPDockBar",
+                         "text":  "xtpBarRight",
+                         "bounds":  [
+                                        2533,
+                                        128,
+                                        0,
+                                        1236
+                                    ]
+                     },
+                     {
+                         "handle":  4328646,
+                         "id":  1637377760,
+                         "class":  "XTPDockingPaneAutoHidePanel",
+                         "text":  "",
+                         "bounds":  [
+                                        2533,
+                                        87,
+                                        36,
+                                        1277
+                                    ]
+                     },
+                     {
+                         "handle":  8589308,
+                         "id":  1172865520,
+                         "class":  "XTPDockingPaneSplitter",
+                         "text":  "Splitter",
+                         "bounds":  [
+                                        334,
+                                        87,
+                                        5,
+                                        1277
+                                    ]
+                     },
+                     {
+                         "handle":  2691244,
+                         "id":  1634759984,
+                         "class":  "XTPDockingPaneTabbedContainer",
+                         "text":  "Layers",
+                         "bounds":  [
+                                        9,
+                                        87,
+                                        325,
+                                        1277
+                                    ]
+                     },
+                     {
+                         "handle":  528106,
+                         "id":  0,
+                         "class":  "#32770",
+                         "text":  "",
+                         "bounds":  [
+                                        34,
+                                        113,
+                                        300,
+                                        1251
+                                    ]
+                     },
+                     {
+                         "handle":  985988,
+                         "id":  1190,
+                         "class":  "SysListView32",
+                         "text":  "",
+                         "bounds":  [
+                                        45,
+                                        163,
+                                        280,
+                                        1151
+                                    ]
+                     },
+                     {
+                         "handle":  724468,
+                         "id":  0,
+                         "class":  "SysHeader32",
+                         "text":  "",
+                         "bounds":  [
+                                        45,
+                                        163,
+                                        280,
+                                        0
+                                    ]
+                     },
+                     {
+                         "handle":  397084,
+                         "id":  1415,
+                         "class":  "Static",
+                         "text":  "Layers List",
+                         "bounds":  [
+                                        72,
+                                        130,
+                                        162,
+                                        19
+                                    ]
+                     },
+                     {
+                         "handle":  528124,
+                         "id":  1024,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        267,
+                                        118,
+                                        29,
+                                        33
+                                    ]
+                     },
+                     {
+                         "handle":  790122,
+                         "id":  1025,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        298,
+                                        118,
+                                        29,
+                                        33
+                                    ]
+                     },
+                     {
+                         "handle":  528126,
+                         "id":  2605,
+                         "class":  "Static",
+                         "text":  "",
+                         "bounds":  [
+                                        50,
+                                        156,
+                                        273,
+                                        2
+                                    ]
+                     },
+                     {
+                         "handle":  462578,
+                         "id":  2014,
+                         "class":  "Button",
+                         "text":  "Add New Layer...",
+                         "bounds":  [
+                                        45,
+                                        1328,
+                                        275,
+                                        33
+                                    ]
+                     },
+                     {
+                         "handle":  1314596,
+                         "id":  2171,
+                         "class":  "Static",
+                         "text":  "",
+                         "bounds":  [
+                                        48,
+                                        1318,
+                                        273,
+                                        2
+                                    ]
+                     },
+                     {
+                         "handle":  724124,
+                         "id":  1026,
+                         "class":  "Button",
+                         "text":  "",
+                         "bounds":  [
+                                        235,
+                                        118,
+                                        29,
+                                        33
+                                    ]
+                     },
+                     {
+                         "handle":  2625704,
+                         "id":  0,
+                         "class":  "DUIViewWndClassName",
+                         "text":  "",
+                         "bounds":  [
+                                        18,
+                                        152,
+                                        1262,
+                                        526
+                                    ]
+                     },
+                     {
+                         "handle":  9768840,
+                         "id":  0,
+                         "class":  "DirectUIHWND",
+                         "text":  "",
+                         "bounds":  [
+                                        18,
+                                        152,
+                                        1262,
+                                        526
+                                    ]
+                     },
+                     {
+                         "handle":  3803908,
+                         "id":  0,
+                         "class":  "FloatNotifySink",
+                         "text":  "",
+                         "bounds":  [
+                                        175,
+                                        566,
+                                        1099,
+                                        31
+                                    ]
+                     },
+                     {
+                         "handle":  4657070,
+                         "id":  0,
+                         "class":  "ComboBox",
+                         "text":  "",
+                         "bounds":  [
+                                        175,
+                                        566,
+                                        1099,
+                                        31
+                                    ]
+                     },
+                     {
+                         "handle":  5967792,
+                         "id":  1001,
+                         "class":  "Edit",
+                         "text":  "",
+                         "bounds":  [
+                                        178,
+                                        569,
+                                        1072,
+                                        25
+                                    ]
+                     },
+                     {
+                         "handle":  4130886,
+                         "id":  0,
+                         "class":  "CtrlNotifySink",
+                         "text":  "",
+                         "bounds":  [
+                                        21,
+                                        194,
+                                        272,
+                                        359
+                                    ]
+                     },
+                     {
+                         "handle":  4263752,
+                         "id":  0,
+                         "class":  "NamespaceTreeControl",
+                         "text":  "Namespace Tree Control",
+                         "bounds":  [
+                                        21,
+                                        194,
+                                        272,
+                                        359
+                                    ]
+                     },
+                     {
+                         "handle":  3608706,
+                         "id":  100,
+                         "class":  "SysTreeView32",
+                         "text":  "Navigation Pane",
+                         "bounds":  [
+                                        21,
+                                        194,
+                                        272,
+                                        359
+                                    ]
+                     },
+                     {
+                         "handle":  3342430,
+                         "id":  0,
+                         "class":  "CtrlNotifySink",
+                         "text":  "",
+                         "bounds":  [
+                                        298,
+                                        194,
+                                        982,
+                                        359
+                                    ]
+                     },
+                     {
+                         "handle":  4132998,
+                         "id":  1121,
+                         "class":  "SHELLDLL_DefView",
+                         "text":  "ShellView",
+                         "bounds":  [
+                                        298,
+                                        194,
+                                        982,
+                                        359
+                                    ]
+                     },
+                     {
+                         "handle":  4591448,
+                         "id":  0,
+                         "class":  "DirectUIHWND",
+                         "text":  "",
+                         "bounds":  [
+                                        298,
+                                        194,
+                                        982,
+                                        359
+                                    ]
+                     },
+                     {
+                         "handle":  5508942,
+                         "id":  0,
+                         "class":  "FloatNotifySink",
+                         "text":  "",
+                         "bounds":  [
+                                        175,
+                                        600,
+                                        1099,
+                                        31
+                                    ]
+                     },
+                     {
+                         "handle":  7998100,
+                         "id":  0,
+                         "class":  "ComboBox",
+                         "text":  "",
+                         "bounds":  [
+                                        175,
+                                        600,
+                                        1099,
+                                        31
+                                    ]
+                     },
+                     {
+                         "handle":  4329482,
+                         "id":  0,
+                         "class":  "ToolbarWindow32",
+                         "text":  "",
+                         "bounds":  [
+                                        28,
+                                        713,
+                                        124,
+                                        26
+                                    ]
+                     },
+                     {
+                         "handle":  5705834,
+                         "id":  1,
+                         "class":  "Button",
+                         "text":  "\u0026Save",
+                         "bounds":  [
+                                        1024,
+                                        706,
+                                        110,
+                                        33
+                                    ]
+                     },
+                     {
+                         "handle":  6360898,
+                         "id":  2,
+                         "class":  "Button",
+                         "text":  "Cancel",
+                         "bounds":  [
+                                        1149,
+                                        706,
+                                        110,
+                                        33
+                                    ]
+                     },
+                     {
+                         "handle":  3869208,
+                         "id":  -1,
+                         "class":  "ScrollBar",
+                         "text":  "",
+                         "bounds":  [
+                                        1259,
+                                        739,
+                                        21,
+                                        21
+                                    ]
+                     },
+                     {
+                         "handle":  5902188,
+                         "id":  0,
+                         "class":  "WorkerW",
+                         "text":  "",
+                         "bounds":  [
+                                        18,
+                                        87,
+                                        1262,
+                                        65
+                                    ]
+                     },
+                     {
+                         "handle":  5638694,
+                         "id":  40965,
+                         "class":  "ReBarWindow32",
+                         "text":  "",
+                         "bounds":  [
+                                        18,
+                                        87,
+                                        1262,
+                                        65
+                                    ]
+                     },
+                     {
+                         "handle":  3934842,
+                         "id":  0,
+                         "class":  "TravelBand",
+                         "text":  "",
+                         "bounds":  [
+                                        18,
+                                        96,
+                                        126,
+                                        44
+                                    ]
+                     },
+                     {
+                         "handle":  7409834,
+                         "id":  0,
+                         "class":  "ToolbarWindow32",
+                         "text":  "Navigation buttons",
+                         "bounds":  [
+                                        23,
+                                        99,
+                                        121,
+                                        41
+                                    ]
+                     },
+                     {
+                         "handle":  3215560,
+                         "id":  0,
+                         "class":  "UpBand",
+                         "text":  "",
+                         "bounds":  [
+                                        144,
+                                        95,
+                                        45,
+                                        45
+                                    ]
+                     },
+                     {
+                         "handle":  2559450,
+                         "id":  0,
+                         "class":  "ToolbarWindow32",
+                         "text":  "Up band",
+                         "bounds":  [
+                                        144,
+                                        99,
+                                        45,
+                                        45
+                                    ]
+                     },
+                     {
+                         "handle":  12389962,
+                         "id":  41477,
+                         "class":  "Address Band Root",
+                         "text":  "",
+                         "bounds":  [
+                                        189,
+                                        87,
+                                        815,
+                                        62
+                                    ]
+                     },
+                     {
+                         "handle":  2362828,
+                         "id":  0,
+                         "class":  "msctls_progress32",
+                         "text":  "",
+                         "bounds":  [
+                                        191,
+                                        97,
+                                        811,
+                                        44
+                                    ]
+                     },
+                     {
+                         "handle":  4394598,
+                         "id":  0,
+                         "class":  "Breadcrumb Parent",
+                         "text":  "",
+                         "bounds":  [
+                                        191,
+                                        97,
+                                        725,
+                                        44
+                                    ]
+                     },
+                     {
+                         "handle":  6230020,
+                         "id":  1001,
+                         "class":  "ToolbarWindow32",
+                         "text":  "Address: D:\\Projects\\Upwork\\Aspire-project\\River_Practice_Pack\\Codex_Assist\\2026-11-08_01\\03_Previews_A",
+                         "bounds":  [
+                                        199,
+                                        97,
+                                        717,
+                                        44
+                                    ]
+                     },
+                     {
+                         "handle":  7343232,
+                         "id":  0,
+                         "class":  "ToolbarWindow32",
+                         "text":  "Address band",
+                         "bounds":  [
+                                        916,
+                                        97,
+                                        86,
+                                        44
+                                    ]
+                     },
+                     {
+                         "handle":  2756728,
+                         "id":  0,
+                         "class":  "SeparatorBand",
+                         "text":  "",
+                         "bounds":  [
+                                        1008,
+                                        117,
+                                        6,
+                                        1
+                                    ]
+                     },
+                     {
+                         "handle":  3084190,
+                         "id":  0,
+                         "class":  "UniversalSearchBand",
+                         "text":  "",
+                         "bounds":  [
+                                        1014,
+                                        93,
+                                        255,
+                                        50
+                                    ]
+                     },
+                     {
+                         "handle":  6098318,
+                         "id":  0,
+                         "class":  "Search Box",
+                         "text":  "",
+                         "bounds":  [
+                                        1014,
+                                        96,
+                                        255,
+                                        46
+                                    ]
+                     },
+                     {
+                         "handle":  1839254,
+                         "id":  0,
+                         "class":  "SearchEditBoxWrapperClass",
+                         "text":  "",
+                         "bounds":  [
+                                        1019,
+                                        96,
+                                        245,
+                                        46
+                                    ]
+                     },
+                     {
+                         "handle":  2559464,
+                         "id":  0,
+                         "class":  "DirectUIHWND",
+                         "text":  "",
+                         "bounds":  [
+                                        1019,
+                                        96,
+                                        245,
+                                        46
+                                    ]
+                     },
+                     {
+                         "handle":  4655758,
+                         "id":  0,
+                         "class":  "SeparatorBand",
+                         "text":  "",
+                         "bounds":  [
+                                        1273,
+                                        117,
+                                        7,
+                                        1
+                                    ]
+                     }
+                 ]
+}

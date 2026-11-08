@@ -1,0 +1,1 @@
+{"name":"066_coupon_profile_tool","actions":[{"type":"key","keys":"ESC"},{"type":"key","keys":"F12"},{"type":"click","x":2241,"y":265},{"type":"field","id":1183,"text":"28.2"},{"type":"field","id":1047,"text":"Coupon_A_Nominal_Outside_SIM_ONLY"},{"type":"click","x":2492,"y":328}]}

@@ -1,0 +1,1 @@
+{"name":"063_coupon_new","actions":[{"type":"click","x":35,"y":67},{"type":"click","x":80,"y":210},{"type":"wait","ms":700},{"type":"key","keys":"CTRL+N"},{"type":"wait","ms":800}]}

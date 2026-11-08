@@ -1,0 +1,11 @@
+{
+  "name": "246_p02_preview",
+  "actions": [
+    {"type": "click", "x": 2548, "y": 115},
+    {"type": "wait", "ms": 400},
+    {"type": "click", "x": 2313, "y": 636},
+    {"type": "wait", "ms": 400},
+    {"type": "click", "x": 2371, "y": 604},
+    {"type": "wait", "ms": 12000}
+  ]
+}

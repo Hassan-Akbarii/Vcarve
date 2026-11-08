@@ -1,0 +1,1 @@
+{"name":"141_close_try","actions":[{"type":"click","x":28,"y":66},{"type":"wait","ms":300},{"type":"click","x":80,"y":182},{"type":"wait","ms":600}]}

@@ -1,0 +1,3 @@
+revision,date,authoritative_master,change,CAM_status,physical_test_status
+A,2026-11-08,Original 07_Automation/parameters.json,508 mm baseline retained; Coupon B variants use nominal vectors at 0.000, -0.025, and -0.050 mm,Tutorial, warm-up, Coupon A, and all three Coupon B jobs SIMULATION_VERIFIED; P01 and P02 SIMULATION_VERIFIED; P03-P05 not continued,NOT_PERFORMED
+B,2026-11-08,05_Revision_B/parameters_B.json,Finished width 508 to 520 mm; revision A to B; other parameters unchanged,Geometry generated; five board-B native jobs not created,NOT_PERFORMED

@@ -1,0 +1,1 @@
+{"name":"101_coupon_b_layer_menu","actions":[{"type":"key","keys":"ESC"},{"type":"wait","ms":300},{"type":"click","x":1290,"y":112},{"type":"wait","ms":400}]}

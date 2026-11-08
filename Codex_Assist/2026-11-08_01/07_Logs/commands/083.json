@@ -1,0 +1,1 @@
+{"name":"083_coupon_a_pass_end","actions":[{"type":"click","x":1120,"y":480},{"type":"key","keys":"END"},{"type":"wait","ms":400}]}
