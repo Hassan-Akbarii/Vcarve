@@ -1,0 +1,83 @@
+{
+  "checked_on": "2026-11-08",
+  "resources": [
+    {
+      "id": "R01",
+      "title": "Create a Simple Sign",
+      "order": 1,
+      "version": "V12 or later",
+      "page": "https://www.vectric.com/vectric-community/free-projects/free-trial-projects/create-a-simple-sign",
+      "download": "https://storage.googleapis.com/download/storage/v1/b/vectric-content-storage/o/Create%20a%20Simple%20Sign%20Files.zip?generation=1739353174497953&alt=media",
+      "video": "https://www.youtube.com/watch?v=ooTRI9rHydw",
+      "verified_bytes": 818964,
+      "native_files": [
+        "Create a Simple Sign Files/Welcome Sign.crv"
+      ],
+      "purpose": "Learn the job setup, drawing tools, machining preview and native-file structure."
+    },
+    {
+      "id": "R02",
+      "title": "Import Vectors and Create Profile Toolpaths",
+      "order": 2,
+      "version": "V12 or later",
+      "page": "https://www.vectric.com/vectric-community/free-projects/free-trial-projects/import-vectors-and-create-profile-toolpaths",
+      "download": "https://storage.googleapis.com/download/storage/v1/b/vectric-content-storage/o/Import%20Vector%20and%20Create%20Profile%20Toolpaths%20Files.zip?generation=1739352915541883&alt=media",
+      "video": "https://www.youtube.com/watch?v=yTlrrcQSBkE",
+      "verified_bytes": 2756916,
+      "native_files": [
+        "Import Vectors and Create Profile Toolpaths Files/Garden Panel - Toolpaths.crv"
+      ],
+      "purpose": "Closest starter to this board: inspect a DXF import, sheets and a profile cut."
+    },
+    {
+      "id": "R03",
+      "title": "Create a V-carved Sign",
+      "order": 3,
+      "version": "V12 or later",
+      "page": "https://www.vectric.com/vectric-community/free-projects/free-trial-projects/create-a-v-carved-sign",
+      "download": "https://storage.googleapis.com/download/storage/v1/b/vectric-content-storage/o/Create%20a%20V%20carved%20Sign%20Files.zip?generation=1739353084222308&alt=media",
+      "video": "https://www.youtube.com/watch?v=kdvjB-4ET7o",
+      "verified_bytes": 743437,
+      "native_files": [
+        "Create a V-carved Sign Files/Backyard BBQ Sign.crv"
+      ],
+      "purpose": "Practise editing vectors, recalculating and sending a revised preview. V-carving itself is optional here."
+    },
+    {
+      "id": "R04",
+      "title": "VCarve Pro Quick Start Guide",
+      "page": "https://docs.vectric.com/docs/V12.5/VCarvePro/ENU/Help/page/user-guide/",
+      "purpose": "Interface, CNC workflow and the calibration exercise."
+    },
+    {
+      "id": "R05",
+      "title": "2D Profile Toolpath reference",
+      "page": "https://docs.vectric.com/docs/V12.5/VCarvePro/ENU/Help/form/uiProfileMachineForm/",
+      "purpose": "Check cutter side, allowance sign, tabs, ramps and separate last-pass behavior."
+    },
+    {
+      "id": "R06",
+      "title": "Toolpath Templates reference",
+      "page": "https://docs.vectric.com/docs/V12.5/VCarvePro/ENU/Help/form/toolpath-templates/",
+      "purpose": "Reuse machining settings while keeping geometry editable."
+    },
+    {
+      "id": "R07",
+      "title": "Create Job Sheet reference",
+      "page": "https://docs.vectric.com/docs/V12.5/VCarvePro/ENU/Help/form/create-job-sheet/",
+      "purpose": "Export VCarve job information as HTML after CAM setup."
+    },
+    {
+      "id": "R08",
+      "title": "Gadgets and Lua reference",
+      "page": "https://docs.vectric.com/docs/V12.5/VCarvePro/ENU/Help/form/gadgets/",
+      "purpose": "Optional future automation inside VCarve Pro, after the manual process works."
+    },
+    {
+      "id": "R09",
+      "title": "Serving Board VCarve Inlay",
+      "page": "https://www.vectric.com/de/vectric-community/free-projects/in-the-labs/serving-board-vcarve-inlay",
+      "purpose": "Optional wood-project demonstration. V&Co login required for its files. Inlay is a different joint from this exercise."
+    }
+  ]
+}

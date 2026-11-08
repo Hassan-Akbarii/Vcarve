@@ -1,0 +1,21 @@
+item,value,basis,real_project_action
+Product size,508 x 381 mm,Supplied job description,Confirm against real drawings
+Five adjoining pieces,Maple and walnut,Supplied job description,Material order is a practice choice
+Finished thickness,25.4 mm,Practice assumption,Confirm before production
+Planed stock thickness,28.0 mm,Practice assumption,Measure actual stock
+Perimeter trim,3.0 mm each external edge,Practice assumption,Confirm flattening and trimming sequence
+Geometry,Four original two-span Bezier curves,Original training design,Replace with approved real geometry
+Materials left to right,Maple Walnut Maple Walnut Maple,Practice assumption,Confirm
+Grain,Parallel +Y on every part,Practice assumption,Check drawing and stock
+Moisture target,8 +/- 2 percent,Practice assumption,Agree for actual shop conditions
+VCarve reference version,12.5,Practice assumption,Confirm native compatibility
+Machine travel,600 x 600 mm minimum XY for exercise,Virtual scenario,Actual machine not selected
+Controller and post,Not selected,Intentional release gate,Required before code posting
+Tool,6.35 mm two-flute flat cutter for simulation,Practice assumption,Confirm maker and cutting length
+Workholding,Sacrificial fixture with retained parts,Concept only,Operator must design physical setup
+Nominal joint gap,0.000 mm CAD baseline,Practice assumption,Determine final fit by coupons
+Coupon fit offsets,B at 0 -0.025 -0.050 mm,Practice experiment,Not guaranteed glue clearances
+Dry-fit feeler check,0.10 mm provisional,Practice criterion,Agree measurement method
+Finishing,Shop planes trims and softens exterior after glue-up,Practice assumption,Not a CNC production recipe
+Revision rounds,One coupon round plus one board round,Practice scope,Contractually agree with client
+Budget and calendar,Estimate after digital exercise and operator review,Unquoted,Do not sell learning time as proven expertise

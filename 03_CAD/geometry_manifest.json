@@ -1,0 +1,189 @@
+{
+  "status": "GEOMETRY CHECKED; CAM NOT CREATED OR VALIDATED",
+  "revision": "A",
+  "units": "mm",
+  "parameters": {
+    "project": "River Practice Board",
+    "revision": "A",
+    "units": "mm",
+    "finished_width_mm": 508.0,
+    "finished_height_mm": 381.0,
+    "finished_thickness_mm": 25.4,
+    "planed_stock_thickness_mm": 28.0,
+    "perimeter_trim_mm": 3.0,
+    "stock_margin_mm": 20.0,
+    "curve_sample_step_mm": 0.5,
+    "boundary_x_fractions": [
+      0.255905511811,
+      0.342519685039,
+      0.657480314961,
+      0.744094488189
+    ],
+    "bezier_x_offsets_at_508_mm": [
+      [
+        0,
+        24,
+        42,
+        8,
+        -26,
+        -24,
+        0
+      ],
+      [
+        0,
+        30,
+        49,
+        10,
+        -29,
+        -20,
+        0
+      ],
+      [
+        0,
+        26,
+        36,
+        -5,
+        -46,
+        -22,
+        0
+      ],
+      [
+        0,
+        32,
+        44,
+        -3,
+        -50,
+        -18,
+        0
+      ]
+    ],
+    "materials": [
+      "Hard maple",
+      "Walnut",
+      "Hard maple",
+      "Walnut",
+      "Hard maple"
+    ],
+    "grain_direction": "Positive Y for all pieces",
+    "nominal_joint_gap_mm": 0.0,
+    "status": "Original practice design; geometry only; no validated CAM or machine code"
+  },
+  "stock_parts": [
+    {
+      "part_id": "P01",
+      "material": "Hard maple",
+      "stock_x_mm": 200,
+      "stock_y_mm": 430,
+      "stock_z_mm": 28.0,
+      "part_bbox_x_mm": 159.7853,
+      "part_bbox_y_mm": 387.0,
+      "assembly_to_stock_shift_x_mm": 23.0,
+      "assembly_to_stock_shift_y_mm": 23.0,
+      "min_piece_width_in_x_mm": 112.1916,
+      "grain": "Positive Y",
+      "cut_layer": "CUT_P01_MAPLE"
+    },
+    {
+      "part_id": "P02",
+      "material": "Walnut",
+      "stock_x_mm": 135,
+      "stock_y_mm": 430,
+      "stock_z_mm": 28.0,
+      "part_bbox_x_mm": 93.7766,
+      "part_bbox_y_mm": 387.0,
+      "assembly_to_stock_shift_x_mm": -92.191668,
+      "assembly_to_stock_shift_y_mm": 23.0,
+      "min_piece_width_in_x_mm": 44.0,
+      "grain": "Positive Y",
+      "cut_layer": "CUT_P02_WALNUT"
+    },
+    {
+      "part_id": "P03",
+      "material": "Hard maple",
+      "stock_x_mm": 240,
+      "stock_y_mm": 430,
+      "stock_z_mm": 28.0,
+      "part_bbox_x_mm": 199.7862,
+      "part_bbox_y_mm": 387.0,
+      "assembly_to_stock_shift_x_mm": -136.873417,
+      "assembly_to_stock_shift_y_mm": 23.0,
+      "min_piece_width_in_x_mm": 144.8169,
+      "grain": "Positive Y",
+      "cut_layer": "CUT_P03_MAPLE"
+    },
+    {
+      "part_id": "P04",
+      "material": "Walnut",
+      "stock_x_mm": 140,
+      "stock_y_mm": 430,
+      "stock_z_mm": 28.0,
+      "part_bbox_x_mm": 99.5097,
+      "part_bbox_y_mm": 387.0,
+      "assembly_to_stock_shift_x_mm": -286.710464,
+      "assembly_to_stock_shift_y_mm": 23.0,
+      "min_piece_width_in_x_mm": 43.6776,
+      "grain": "Positive Y",
+      "cut_layer": "CUT_P04_WALNUT"
+    },
+    {
+      "part_id": "P05",
+      "material": "Hard maple",
+      "stock_x_mm": 205,
+      "stock_y_mm": 430,
+      "stock_z_mm": 28.0,
+      "part_bbox_x_mm": 160.4627,
+      "part_bbox_y_mm": 387.0,
+      "assembly_to_stock_shift_x_mm": -330.537305,
+      "assembly_to_stock_shift_y_mm": 23.0,
+      "min_piece_width_in_x_mm": 101.7798,
+      "grain": "Positive Y",
+      "cut_layer": "CUT_P05_MAPLE"
+    }
+  ],
+  "coupons": [
+    {
+      "part": "Coupon_A_Maple",
+      "material": "Hard maple",
+      "stock_x_mm": 140,
+      "stock_y_mm": 160,
+      "stock_z_mm": 28.0,
+      "assembly_to_stock_shift_xy": [
+        20.0,
+        20.0
+      ]
+    },
+    {
+      "part": "Coupon_B_Walnut",
+      "material": "Walnut",
+      "stock_x_mm": 145,
+      "stock_y_mm": 160,
+      "stock_z_mm": 28.0,
+      "assembly_to_stock_shift_xy": [
+        -38.15021897760329,
+        20.0
+      ]
+    }
+  ],
+  "checks": {
+    "finished_bbox_mm": [
+      508.0,
+      381.0
+    ],
+    "finished_area_sum_mm2": 193548.0,
+    "finished_area_expected_mm2": 193548.0,
+    "finished_area_error_mm2": 0.0,
+    "pretrim_area_sum_mm2": 198918.0,
+    "pretrim_area_expected_mm2": 198918.0,
+    "minimum_piece_widths_in_x_mm": [
+      112.19156593598801,
+      43.999999999823984,
+      144.816894160376,
+      43.67756824982405,
+      101.77976012798803
+    ],
+    "shared_edges": "Same sampled curve reused in both adjoining pieces",
+    "sample_interval_y_mm": 0.5,
+    "chord_error_estimate_mm": 0.002,
+    "cam_validation": "Requires import and simulation in VCarve"
+  }
+}
